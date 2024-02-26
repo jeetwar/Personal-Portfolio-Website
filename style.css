@@ -1,0 +1,106 @@
+.top{
+    background-color: lavender;
+}
+.top > h1{
+font-family: "Sacramento", cursive;
+display: block;
+text-align: center;
+color: purple;
+font-size: 5.625rem;
+margin: 50px auto 0 auto;
+font-weight: bold;
+}
+#first {
+
+    text-align: center;
+    color: purple;
+    
+    
+}
+
+.project > h2 {
+
+text-align: center;
+color: purple;
+background-color: lavender;
+
+
+}
+.certificates > h2{
+    text-align: center;
+color: purple;
+background-color: lavender;
+
+}
+
+.education > h2{
+    text-align: center;
+color: purple;
+background-color: lavender;
+
+}
+.contact-me > h2{
+    text-align: center;
+color: purple;
+background-color: lavender;
+
+}
+.logo{
+    display: block;
+    align-items: center;
+    margin: 0 auto;
+    border-radius: 50%;
+    text-align: center;
+
+}
+.dp{
+    border-radius: 50%;
+}
+
+.grid-container{
+    display: grid;
+    width: 70%;
+    background-color:lavender;
+    grid-template-columns: 0.25fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 5px;
+    text-align: left;
+    margin: 50px auto 50px auto;
+}
+.tindes > h3 {
+    color: purple;
+}
+.resdes > h3 {
+    color: purple;
+}
+
+.certificates > ul {
+    width: 50%;
+    text-align: left;
+    margin: 50px auto 50px auto;
+}
+
+.education >ul {
+    width: 50%;
+    text-align: left;
+    margin: 50px auto 50px auto;
+}
+footer{
+    background-color: lavender;
+
+}
+.contact-message{
+    width: 50%;
+    text-align: left;
+    margin: 20px auto 20px auto;
+}
+.contact-me  h3{
+    width: 50%;
+    text-align: center;
+    margin: 50px auto 50px auto;
+
+}
+.button{
+text-align: center;
+
+}
